@@ -1,0 +1,4 @@
+incident_id,description,amount_eur,urgent
+FRC-101,Compra con tarjeta no reconocida en comercio online,850,false
+FRC-102,Transferencia urgente a beneficiario nuevo,12500,true
+FRC-103,Documento de identidad caducado en revisión periódica,0,false

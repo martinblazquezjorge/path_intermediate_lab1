@@ -1,0 +1,7 @@
+text,category
+Compra con tarjeta no reconocida en comercio online,card_fraud
+Dos cargos pequeños seguidos de una compra no reconocida,card_fraud
+Transferencia urgente a beneficiario nuevo,transfer_risk
+Orden de transferencia internacional no reconocida,transfer_risk
+Documento de identidad caducado en revisión periódica,kyc_review
+Dirección fiscal sin actualizar en expediente de cliente,kyc_review
